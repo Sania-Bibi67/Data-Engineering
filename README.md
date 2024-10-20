@@ -17,8 +17,7 @@ Welcome to my Data Engineering GitHub Repository! This repository showcases a va
 **Overview:**  
 The goal was to automate web scraping and data processing using a simple, serverless approach. Instead of building a complex pipeline, we aimed to efficiently scrape and store web data
 
-**Solution:**
-
+**Solution:** 
 Azure Functions were used to automate the workflow. The process begins with an HTTP-triggered function that receives a request and scrapes the necessary web pages. Additional Azure Functions are triggered to handle tasks such as processing URLs, extracting detailed information, and saving the data into a database. This serverless solution ensures that each step runs independently, allowing for scalability and flexibility.
 
 **Technologies Used:**  
