@@ -12,7 +12,7 @@ Welcome to my Data Engineering GitHub Repository! This repository showcases a va
 
 ## 📂 Projects
 
-### 1. **Comprehensive Data Extraction and Processing**
+### 1. **Comprehensive Data Extraction and Processing** 🔄
 
 **Overview:**  
 The goal was to automate web scraping and data processing using a simple, serverless approach. Instead of building a complex pipeline, we aimed to efficiently scrape and store web data
@@ -29,7 +29,7 @@ Azure Functions were used to automate the workflow. The process begins with an H
 The solution successfully scrapes data from webpages, processes it in stages, and stores structured information in a database. The system runs efficiently without the need for a complex pipeline, providing a scalable and serverless approach to handling data extraction and storage.
 
 
-### 2. **Video Insight Extractor**
+### 2. **Video Insight Extractor** 🎥
 
 **Overview:**   
 The project aims to automate the extraction of insights from video files stored in Google Drive. By leveraging cloud services, we will retrieve video content, process it for insights, and store the results efficiently.
@@ -45,7 +45,7 @@ The workflow begins by retrieving video files from Google Drive and uploading th
 **Outcome:**  
 The project successfully automates the process of extracting insights from video files, allowing for efficient storage and retrieval of valuable data. The insights are readily accessible in JSON format on Google Drive, facilitating further analysis and use.
 
-### 3. **Data Extraction from APIs Using Power BI Queries**
+### 3. **Data Extraction from APIs Using Power BI Queries**  📈
 
 **Overview:**  
 The project focuses on utilizing Power BI to extract and analyze data from Advanced Hunting and Secure Score APIs. The goal is to structure this data effectively for further analysis and reporting
