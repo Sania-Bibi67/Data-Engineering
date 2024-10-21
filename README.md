@@ -2,7 +2,7 @@
 
 Welcome to my Data Engineering GitHub Repository! This repository showcases a variety of data engineering projects focused on data extraction, transformation, and storage. Each project demonstrates practical solutions to common challenges, such as web scraping, API integration, and database management, while leveraging modern tools and technologies. Designed with scalability and automation in mind, these projects highlight efficient data workflows and offer a resource for solving diverse data engineering problems.
 
-## Key Skills and Tools
+## 🛠️ Key Skills and Tools
 
 - **Languages:** Python, SQL
 - **Cloud Platforms:** Azure 
@@ -10,7 +10,7 @@ Welcome to my Data Engineering GitHub Repository! This repository showcases a va
 - **DevOps Tools:** Docker
 - **Data Processing:** ETL/ELT pipelines, Batch and Streaming Data
 
-## Projects
+## 📂 Projects
 
 ### 1. **Comprehensive Data Extraction and Processing**
 
