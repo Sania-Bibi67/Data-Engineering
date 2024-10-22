@@ -35,7 +35,7 @@ The solution successfully scrapes data from webpages, processes it in stages, an
 The project aims to automate the extraction of insights from video files stored in Google Drive. By leveraging cloud services, we will retrieve video content, process it for insights, and store the results efficiently.
 
 **Solution:**  
-The workflow begins by retrieving video files from Google Drive and uploading them to blob storage. Once stored, the Video Indexer processes the files to generate valuable insights, returning the results in JSON format. Finally, this JSON data is uploaded back to Google Drive for easy access and management.
+The workflow begins by retrieving video files from Google Drive, get content of file and uploading them to blob storage. Once stored, the Video Indexer processes the files to generate valuable insights, returning the results in JSON format. Finally, this JSON data is uploaded back to Google Drive for easy access and management.
 
 **Technologies Used:**  
 - *Google Drive API*
@@ -52,6 +52,8 @@ The project focuses on utilizing Power BI to extract and analyze data from Advan
 
 **Solution:**  
 The solution involves using Power BI queries to connect to the Advanced Hunting and Secure Score APIs. Data is extracted, transformed, and structured to meet analytical needs before being saved in an Azure database. This structured data can then be easily accessed for reporting and visualization.
+
+![WorkFlow Diagram](Data-Engineering\video_processing_image.PNG)
 
 **Technologies Used:**  
 - *Power BI*
