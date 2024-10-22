@@ -37,8 +37,8 @@ The project aims to automate the extraction of insights from video files stored 
 **Solution:**  
 The workflow begins by retrieving video files from Google Drive, get content of file and uploading them to blob storage. Once stored, the Video Indexer processes the files to generate valuable insights, returning the results in JSON format. Finally, this JSON data is uploaded back to Google Drive for easy access and management.
 
-![image](https://github.com/user-attachments/assets/b1ce84b2-93b9-4a01-a39a-1644faf2919e)
-
+**WorkFlow Diagram:**
+![image](https://github.com/user-attachments/assets/e7d83a3a-5715-4305-ace3-aacc1462de16)
 
 **Technologies Used:**  
 - *Google Drive API*
