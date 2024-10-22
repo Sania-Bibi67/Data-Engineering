@@ -53,7 +53,7 @@ The project focuses on utilizing Power BI to extract and analyze data from Advan
 **Solution:**  
 The solution involves using Power BI queries to connect to the Advanced Hunting and Secure Score APIs. Data is extracted, transformed, and structured to meet analytical needs before being saved in an Azure database. This structured data can then be easily accessed for reporting and visualization.
 
-![WorkFlow Diagram](Video_processing_image.png)
+Video_processing_image.PNG
 
 **Technologies Used:**  
 - *Power BI*
